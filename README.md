@@ -95,3 +95,20 @@ The analysis helps identify high-performing products and categories, understand 
 Vaishnavi Bhilare
 
 Data Analytics | SQL | Mysql
+
+  Project Screenshots
+
+ 1. Database Tables
+![Database Tables](screenshots/01_database_tables.png)
+
+ 2. Sales by Category
+![Sales by Category](screenshots/02_sales_by_category.png)
+
+ 3. Top-Selling Products
+![Top-Selling Products](screenshots/03_top_selling_products.png)
+
+ 4. Supplier & Inventory Analysis
+![Supplier & Inventory](screenshots/04_supplier_inventory.png)
+
+ 5. Window Function Analysis
+![Window Function](screenshots/05_window_function.png)
